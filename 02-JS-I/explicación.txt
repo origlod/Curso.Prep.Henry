@@ -1,0 +1,13 @@
+Variable: es un nombre que se utiliza para representar el valor de una dato.
+
+Strings: es una cadena de caracteres (palabras o números).
+
+Funciones: tambien llamadas métodos, agrupan codigos que se utilizan varias veces y nos permite dividir el trabajo en tareas mas pequeñas.
+
+    Argumento: son expresiones delimitadas por comas (,)y toman valor cuando invocan la funcion.
+
+    Return: corta la ejecucion de una funcion y da un valor de vuelta.
+
+Declaración if: es utilizada para evaluar una expresion condicional, por ejemplo: si se cumple la condición es verdadera por lo tanto ejecutará el bloque de codigo determinado.
+
+Valores booleanos: son datos que solo pueden tener dos valores, true (verdadero) o false (falso). 
