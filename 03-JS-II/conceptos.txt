@@ -1,0 +1,4 @@
+For: repite un bloque de código muchas veces.
+&&: o AND es un operador lógico, se entiende como si fuera un Y, para que se cumpla este operador todas las expresiones deben ser verdaderas.
+||: o OR es un operador lógico, para que se cumpla este operador al menos una ex´presion debe ser verdadera.
+!: o NOT se utiliza para convertir una expresion verdadera (true) en falsa (false) o viceversa.
